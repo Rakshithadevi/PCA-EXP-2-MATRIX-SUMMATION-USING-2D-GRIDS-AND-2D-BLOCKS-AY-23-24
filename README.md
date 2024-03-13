@@ -35,7 +35,7 @@ Google Colab with NVCC Compiler
 12.	Reset the device: Reset the device using cudaDeviceReset to ensure that all resources are cleaned up before the program exits.
 
 ## PROGRAM:
-## float type
+## float 
 ```
 %%cuda
 
@@ -368,7 +368,7 @@ int main(int argc, char **argv)
     return (0);
 }
 ```
-## integer typr
+## integer 
 ```
 %%cuda
 #include <cuda_runtime.h>
