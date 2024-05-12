@@ -1,6 +1,6 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
-<h3>AIM:</h3>
+
 <h3>Rakshitha Devi J</h3>
 <h3>212221230082</h3>
 <h3>EX. NO 2</h3>
